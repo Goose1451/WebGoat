@@ -1,4 +1,5 @@
 # We need JDK as some of the lessons needs to be able to compile Java code
+# TODO: #1960 I've updated the default branch to demo. @Goose1451
 FROM docker.io/eclipse-temurin:21-jdk-jammy
 
 LABEL name="WebGoat: A deliberately insecure Web Application"
