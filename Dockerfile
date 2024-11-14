@@ -1,5 +1,4 @@
 # We need JDK as some of the lessons needs to be able to compile Java code
-# TODO: #1958 update the base image to latest jdk version @Goose1451
 FROM docker.io/eclipse-temurin:21-jdk-jammy
 
 LABEL name="WebGoat: A deliberately insecure Web Application"
